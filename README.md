@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack  
 **Languages:** Python, C++  
-**AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, NLP, Transformers, Generative AI (Google Gemini API, OpenAI API, Hugging Face)  
+**AI/ML:** RAG, Langchain, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, NLP, Transformers, Generative AI (Google Gemini API, OpenAI API, Hugging Face)  
 **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Linux  
 **Others:** Pandas, NumPy, Flask, Automation Scripts  
 
